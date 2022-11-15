@@ -68,6 +68,7 @@ let h2b = document.createElement("h2");
 h2b.innerHTML="Submission"
 h2b.style.color = "red"
 document.body.appendChild(h2b);
+console.log(h2b)
 
 // paragraph three
 let p3 = document.createElement("p")
